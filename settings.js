@@ -1,53 +1,44 @@
 //════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                                                                            //
-//                                                             𝐖𝐀𝐋𝐋𝐘𝐉𝐀𝐘𝐓𝐄𝐂𝐇-𝐌𝐃 𝐁𝐎𝐓                                                                         //
-//                                                                                                                                                            //
-//                                                                  𝐕 : 1.0.0                                                                                 //
-//                                                                                                                                                            //
-//                                                                                                                                                            //
-//                ██╗    ██╗ █████╗ ██╗     ██╗  ██╗   ██╗   ██╗ █████╗ ██╗   ██╗████████╗███████╗ ██████╗██╗  ██╗      ███╗   ███╗██████╗                    //
-//                ██║    ██║██╔══██╗██║     ██║  ╚██╗ ██╔╝   ██║██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝██╔════╝██║  ██║      ████╗ ████║██╔══██╗                   //
-//                ██║ █╗ ██║███████║██║     ██║   ╚████╔╝    ██║███████║ ╚████╔╝    ██║   █████╗  ██║     ███████║█████╗██╔████╔██║██║  ██║                   //
-//                ██║███╗██║██╔══██║██║     ██║    ╚██╔╝██   ██║██╔══██║  ╚██╔╝     ██║   ██╔══╝  ██║     ██╔══██║╚════╝██║╚██╔╝██║██║  ██║                   //
-//                ╚███╔███╔╝██║  ██║███████╗███████╗██║ ╚█████╔╝██║  ██║   ██║      ██║   ███████╗╚██████╗██║  ██║      ██║ ╚═╝ ██║██████╔╝                   //
-//                 ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝      ╚═╝     ╚═╝╚═════╝                    //
-//                                                                                                                                                            //
-//                                                                 𝐂𝐎𝐏𝐘𝐑𝐈𝐆𝐇𝐓 2025                                                                            //
-//                                                                                                                                                            //
-//                                                                                                                                                            //
+//                                                                                                                                                                                        //
+//                                                                 AGENT911 BOT                                                                                                           //
+//                                                                                                                                                                                        //
+//                                                                  𝐕 : 3.0.0                                                                                                             //
+//                                                                                                                                                                                        //
+//                                                                                                                                                                                        //
+//                                                                                                                                                                                        //
+//                                                                 𝐂𝐎𝐏𝐘𝐑𝐈𝐆𝐇𝐓 2026                                                                                                        //
+//                                                                                                                                                                                        //
+//                                                                                                                                                                                        //
 //════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
 //* 
-//  * project_name : WALLYJAYTECH-MD
-//  * author : wallyjaytech
-//  * youtube : https://www.youtube.com/wallyjaytechy
-//  * description : WALLYJAYTECH-MD ,A Multi-Device whatsapp user bot.
+//  * project_name : LUCKY_BOT2.1
+//  * author : AGENT911 
+//  * description : LUCKY_BOT2.1 ,A Multi-Device whatsapp user bot.
 //*
 //*
-//re-upload? recode? copy code? give credit to wallyjaytech 2025:)
-//Instagram: wallyjaytech
-//Telegram: t.me/wallyjaytech
+//re-upload? recode? copy code? give credit to LUCKY_BOY2.1 2026:)
+//Telegram: t.me/AGENT9110
 //GitHub: wallyjaytechh
-//WhatsApp: +2348144317152
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@wallyjaytechy
-//   * Created By Github: wallyjaytechh.
-//   * Credit To ally jay tech
-//   * © 2025 WALLYJAYTECH-MD.
+//WhatsApp: +2349069922503
+//   * Created By AGENT911.
+//   * Credit To CLASSIC LUCKY
+//   * © 2026 LUCKY_BOY2.1.
 // ⛥┌┤
 // */
 
 const settings = {
-  packname: 'WALLYJAYTECH-MD',
-  author: '‎Wally Jay',
-  botName: "WALLYJAYTECH-MD",
-  botOwner: 'Wally Jay', 
+  packname: 'LUCKY_BOY2.1',
+  author: '‎CLASSIC LUCKY',
+  botName: "LUCKY_BOY2.1",
+  botOwner: 'AGENT911', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2348144317152', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2349069922503', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
-  description: "WALLYJAYTECH-MD ,A Multi-Device whatsapp user bot",
+  description: "LUCKY_BOY2.1 ,A Multi-Device whatsapp user bot",
   version: "1.0.0",
   updateZipUrl: "https://github.com/wallyjaytechh/WALLYJAYTECH-MD/archive/refs/heads/main.zip",
   removeBgApi: {
