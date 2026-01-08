@@ -19,7 +19,7 @@
 //re-upload? recode? copy code? give credit to LUCKY_BOY2.1 2026:)
 //Telegram: t.me/AGENT9110
 //GitHub: wallyjaytechh
-//WhatsApp: +2349069922503
+//WhatsApp: +2349118743413
 //   * Created By AGENT911.
 //   * Credit To CLASSIC LUCKY
 //   * © 2026 LUCKY_BOY2.1.
@@ -33,7 +33,7 @@ const settings = {
   botOwner: 'AGENT911', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2349069922503', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2349118743413', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
   maxStoreMessages: 20, 
